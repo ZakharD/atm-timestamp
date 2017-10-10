@@ -1,4 +1,5 @@
 October 2017
+	1.1.1	Fixed atm-timestamp title in README
 	1.1.0	Added some module description
 	1.0.9 	Added use case to README
 	1.0.8 	Fixed timestamp.js
