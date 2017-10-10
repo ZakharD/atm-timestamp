@@ -1,6 +1,6 @@
 {
   "name": "atm-timestamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ATM Timestamp Service",
   "main": "main.js",
   "scripts": {
@@ -8,12 +8,16 @@
   },
   "repository": "https://github.com/timgabets/atm-timestamp",
   "keywords": [
-    "temistamp",
+    "timestamp",
+    "time"
   ],
-  "author": { 
-    "name" : "Tim Gabets"
-    ,"email" : "tim@gabets.ru"
-    ,"url" : "http://gabets.ru/"
+  "author": {
+    "name": "Tim Gabets",
+    "email": "tim@gabets.ru",
+    "url": "http://gabets.ru/"
   },
-  "license": "LGPL-2.1"
+  "license": "LGPL-2.1",
+  "dependencies": {
+    "jasmine": "^2.8.0"
+  }
 }
