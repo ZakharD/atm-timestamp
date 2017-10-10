@@ -1,3 +1,4 @@
 October 2017
+	1.0.3 	Added jasmine test specs
 	1.0.2 	Added istanbul
 	1.0.1 	Initial commit (timestamp.js moved from electron-atm code repo)
