@@ -1,6 +1,6 @@
 {
   "name": "atm-timestamp",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "ATM Timestamp Service",
   "main": "timestamp.js",
   "scripts": {
