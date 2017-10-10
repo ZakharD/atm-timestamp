@@ -1,0 +1,19 @@
+{
+  "name": "atm-timestamp",
+  "version": "1.0.0",
+  "description": "ATM Timestamp Service",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/timgabets/atm-timestamp",
+  "keywords": [
+    "temistamp",
+  ],
+  "author": { 
+    "name" : "Tim Gabets"
+    ,"email" : "tim@gabets.ru"
+    ,"url" : "http://gabets.ru/"
+  },
+  "license": "LGPL-2.1"
+}
