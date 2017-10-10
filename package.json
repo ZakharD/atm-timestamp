@@ -17,8 +17,10 @@
     "url": "http://gabets.ru/"
   },
   "license": "LGPL-2.1",
-  "dependencies": {
+  "devDependencies": {
     "istanbul": "^0.4.5",
     "jasmine": "^2.8.0"
+  },
+  "dependencies": {
   }
 }

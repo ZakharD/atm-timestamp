@@ -1,4 +1,5 @@
 October 2017
+	1.0.6 	dependencies -> devDependencies 
 	1.0.5 	Added README
 	1.0.4 	Using this.get
 	1.0.3 	Added jasmine test specs
