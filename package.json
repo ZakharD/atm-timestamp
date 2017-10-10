@@ -1,8 +1,8 @@
 {
   "name": "atm-timestamp",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "ATM Timestamp Service",
-  "main": "main.js",
+  "main": "timestamp.js",
   "scripts": {
     "test": "istanbul cover jasmine"
   },

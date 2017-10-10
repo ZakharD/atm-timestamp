@@ -1,4 +1,5 @@
 October 2017
+	1.0.8 	Fixed timestamp.js
 	1.0.7 	Using exports instead of module.exports
 	1.0.6 	dependencies -> devDependencies 
 	1.0.5 	Added README
