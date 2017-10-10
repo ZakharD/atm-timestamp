@@ -18,4 +18,4 @@ function Timestamp(){
   };
 };
 
-module.exports = Timestamp;
+exports = Timestamp;
