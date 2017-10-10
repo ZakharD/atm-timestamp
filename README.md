@@ -10,7 +10,10 @@ npm install atm-timestamp
 ## To Use:
 
 ```javascript
-var timestamp = require('atm-timestamp');
-console.log(timestamp.get());
->>> 14:34:31.517
+> var Timestamp = require('atm-timestamp');
+> var t = new Timestamp();
+> t.get()
+'14:52:01.548'
+> t.get()
+'14:52:50.007'
 ```
